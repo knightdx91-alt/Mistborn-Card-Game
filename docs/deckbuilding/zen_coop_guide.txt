@@ -1,0 +1,354 @@
+ Zens Mistborn co-op mode & card rankings Published using Google Docs
+ Report abuse Learn more 
+
+ Zens Mistborn co-op mode & card rankings
+ Updated automatically every 5 minutes 
+
+ “Mistborn the Deck Building Game” Guide + Card Rankings for Solo/Co-op. 
+
+ Welcome to my guide! My name is Zen and I’m a huge fan of this game, especially the Solo/Co-op Version. Outside of several game playthroughs I haven’t been able to find any comprehensive guide and card breakdown on this game's co-op mode, so I decided to write my own.
+
+I’d like to consider myself skilled in this game, and have experienced it playing by myself, and in the 2,3 and 4 player variants many times. With 8 missions and 87 market cards, a challenging and unpredictable enemy and various difficulty settings, this game offers a high degree of replayability. While player vs player is more varied, the co-op mode still produces novel and interesting games with each play though. These facets have kept me opening the box and have made me think a lot about what cards are worth it and why. If you enjoy this game and want to think a bit more deeply about it then read on, and rest assured, there are no spoilers for the books here. BUT YOU SHOULD READ THE BOOKS, THEY ARE AMAZING! 
+
+ One thing to note, the authors of the game have released an errata to help clear up many rule questions and even amend a few existing ones. I will be using the Errata in my judgements throughout this guide. I’d suggest giving it a read. 
+ Errata: https://www.brotherwisegames.com/mistborn-deckbuilding-game-faq 
+
+ Characters 
+ Sadly for how interesting and unique the characters are in the novels, they are incredibly similar in the game. Each character has a unique tier 1 ability related to their primary metal. This is a minor effect which can activate once per turn. The tier 2 and tier 3 abilities are the exact same for all characters. I wish they were more varied, and could easily see a new ruleset or second printing updating these characters. That being said we will be reviewing each character as they are written and within the context of the game, un-modded. 
+
+ Vin:  Simply put, Vin's ability is amazing. Her unique spread of 1 damage, 1 gold and 1 health often fulfills everything you need as a player. The damage is usually enough to get to the next shield threshold, and the one extra coin is enough to afford the next card. Don’t sleep on the one health gained as well. Over the course of the game you will likely gain 10-15 health from this alone, essentially allowing you to ignore several of the lord rules edicts, or shrug off an adversary for an extra turn or two. When you compare her ability to Shan or Kelsier it is easy to see that she simply has an edge.
+Her unfortunate downside is being pewter based. While pewter is an okay metal, its pairing tin is quite weak. These cards can be fine and good, but they just aren’t at the same level as some of the other metals. 
+ Overall, Vin is still incredible and will always perform well; remember, at worst you can burn pewter for 1 damage/health/coin, which   can still be worthwhile. 
+
+ Kelsier:  Simply put, Kelsier is the best character in the game. Half of the Lord Rulers deck are adversaries, and most of them need to be dealt with quickly. While several of them can safely be ignored, most need to be killed on sight, therefore, damage is always needed. This becomes even more critical at harder difficulties. However, the best aspect of Kelsier is that he burns steel, which means iron also is in his wheel house. These are some of the strongest metals and both offer great damage and utility. Pick Kelsier, buy iron/steel, win. 
+
+ Shan:  Money money money!!! Zinc does one thing really well which is generate money, and her ability builds upon that. Similar to Kelsier she only really gets one note, but unlike Kelsier money is generally worse than damage, except for when it isn’t. In the early/mid-game having just a bit more money can be the make or break between getting that 6 drop and settling for something smaller. In the late game she can use her ability to consistently buy and eliminate a card from the market every turn. The average cost of a card in the market is around 4 and so to buy and eliminate a card per turn you really just need ~4 coins. Many cards in the game offer a few coins so finding an extra 2 coins to make this purchase isn’t difficult. As a result, many of the zinc cards which just give money become pretty redundant. In the late game with few exceptions zinc is one of the worst metals to be burning, but with great money generation early, your deck should be stacked by that point. 
+
+ Marsh:  More than any other character Marsh is reliant on luck. Primarily he needs to have good missions that can help me get through the early to mid game, and a good market where he can Seek for value and survival. His ability to get one mission point is underwhelming to say the least, and does very little to help him deal with any of the current problems on the ‘board’. Bronze is a middling metal with some good and bad cards so finding the few decent ones is a must. In a three/four player game if he has the ability to just focus on a mission he can do fine, but solo or with two players his weaknesses quickly become apparent. 
+
+ Rankings : Kelsier >= Vin > Shan >> Marsh. 
+ Kelsier is just so solidly consistent that he has a great shot every game. With even a halfway decent market Vin has the potential to be even stronger, but is just a titch less reliable. After a step down we find ourselves with Shan, who can still very easily win and is still a head and shoulder above Marsh. All this being said Marsh can still win games, but as the difficulty ramps up he will suffer more than anyone else. Also it is important to remember that again these characters are all very similar, the only difference is the tier 1 ability. This will make the difference between winning and losing in some games, but probably not as frequently as getting a bad market or some unfortunate Lord Ruler adversaries/edicts. 
+
+ Missions 
+ Every mission grants you benefits as you advance with mission points, and there are almost as many different benefits as there are missions. The rankings below represent how useful each mission is on average to surviving and reaching the end game. While all missions provide benefits, they are not created equally. 
+
+ S tier: 
+ Canton Of Orthodoxy : Without a doubt this is the strongest mission to see. It has the potential to eliminate 9 total cards for the first finisher, and 6 for any other finisher. I already think that ‘Soothe’ is one of the best abilities and now your mission point cards double up with that effect. It only takes one or two bad draws to put you in a world of hurt, and the faster you can mitigate that chance the better. The person who works on this should skip picking up Soothe cards (unless there is an abundance) and leave them for teammates. 
+ The only downside is that the first benefit is 5 points up, often requiring you to flare to get this quickly. 
+
+ Keep Venture:  11 gold, on 5 easy to hit checkpoints gives you a steady stream of income through the early and middle game, and even gives you a constant supply with the permanent 2 gold per term you get on completion. With the amount of fundings/ trainings  you should often be able to afford basically everything you need and even skip any (and potentially all) subpar cash cards. You need money every game, so count your lucky stars when this shows up. 
+
+ A tier: 
+ Luthadel Garrison: While damage is always useful the amounts that the garrison provides is fairly minimal. The larger benefits come from the first player rewards which destroy a shield on an adversary. The tiers are spread out in easy to reach segments and given the amount of adversaries it will almost always find a target. However nearly every adversary has multiple shields so taking out one isn’t always a complete answer. Still though, it is helpful to survive the early to mid game. The permanent two damage every turn is nice, but at that stage it isn’t ground breaking. 
+
+ Kredik Shaw: The ability to draw cards is incredibly powerful, and this mission gives you three different opportunities to draw two additional cards. This benefit is actually two fold. When timed correctly you are able to have bigger turns which can help buy new cards or deal with adversaries. In the early game this also means your next turn is better because you are no longer drawing ineffectual fundings/ trainings . The permanent benefit of an extra card draw per turn from completion is arguably the strongest out of all the missions. It is less good for a second player following the mission, but if completed quickly it is still quite strong. 
+
+ B tier: 
+ Luthadel Rooftops:  This mission has the potential for greatness, but requires a lot of things to go right. The biggest power boost in the game comes when you reach the ability to burn 3 metals a turn, but it’s a long 6 turns from when you can start burning 2. Speeding up that with additional training can make a huge impact and can help you deal with the Lord Ruler. However, it offers no direct aid in getting better cards, dealing damage, or anything else. 
+
+ Skaa Caverns: Being able to refresh two metals is actually quite useful. In the early game, flaring for an extra  training is often required to deal with an adversary or to get that last coin. If you can’t refresh that metal it makes a later turn significantly weaker. This mission gets significantly better at higher difficulties as forced flaring becomes more common. The permanent extra metal burn is good if you can get it early, but often it is only useful for a few turns until you get the ability to burn 3 times naturally. 
+
+ C tier: 
+ Crew Hideout: This has the potential to heal a grand total of 14 health across the entire track. Unfortunately that is all it does. This doesn’t do anything else. No damage for adversaries, no gold for cards, nadda. This big upside is that 14 health is a lot, and it can help you stabilize in the late game, so I guess save this for last if you can. With the new errata rules you can heal your allies, so even in the early game you can get ‘value’ without the health going to waste. 
+
+ D tier: 
+ Pits of Hathsin:  This mission is all over the place. You get two gold off the rip, then 2 damage and 2hp a bit later. The big benefit is 2 Atium for completion. While the gold is nice, and on par with Keep Venture, everything else falls flat. If you can survive into the late game the Atium will do wonders, but the tier 3 ability comes on turn 14, and you really don’t want to use the Atium before then. If you need it to survive then do it, but at that point the capstone is giving you a random burn which is equivalent to basically a card draw and/or a metal refresh (both of which other missions do better). If you can hold it till you get the tier 3 ability then you are probably already winning really and the mission is likely irrelevant. In either case it didn’t help you, or is only helping you win-more. Ideally these missions help you survive, progress and establish your deck, making you win even harder doesn’t mean much. 
+
+ Cards 
+ Each market card listed below is described and discussed with respect to how it behaves in an average Co-op game of Mistborn. 
+
+ I’ve also created a tier list  to help rank each market card, give it a look if you are interested to see how I value each card. Once again these descriptions/ratings are discussed with respect to the Eratta and base rules. Also, cards are not ordered inside of each tier. 
+ Tin 
+ Tin’s ability is ‘sense’ which in co-op mode is strictly useless. The rule book even says “SENSE abilities have no effect on the Lord Ruler.” This feels like an unfortunate choice the authors made to get the game released on schedule, and I’ll touch on this in the Critiques section. The only real upside to this metal is that pewter is pretty decent, so these cards can still see use to fuel them, though the vial abilities are largely default or uninspiring. 
+
+ Investigate :  An extremely variable money generating card, that gets worse as the game progresses, and unfortunately is at odds with the rest of the cards. At the top end you can get 4 coins for one metal, which is better than any other cash card in the game. Though you will more likely get 1-2 depending on the number of people you are playing with. Additionally, as the game goes on you will be incentivized to work on other missions, and this card will fall off. 
+ As a note: you are not on the track when you have not put a single point into the track. Also ties behave differently depending on the number of players. With 2 cubes on a track, ties do not mean you are lowest, but with 3 or more cubes, ties do mean you are lowest.
+So for this card to be anything better than a funding, you need to put a mission point into each track which then pushes you further away from completing a mission and getting initial rewards…. With more players this card gets better as there is less pressure to advance a track and complete a mission. Conversely with fewer players this gets harder to pull off. Also, with just one player, you only count as being the lowest if you are below the first marking. Trust me that I will not write this much with every card, but this card perfectly embodies all the problems with tin. 
+
+ Eavesdrop:  Once again the lowest mission track problems strike, and all this card can do is keep you at a level already obtained, which doesn’t help you actually complete a mission… The coin as a vial is a nice benefit and could be useful if heavy into pewter, but at a cost of 4 this is almost worse than a funding. 
+
+ Lookout:  Look out, it’s a 4 cost training! The real value in this card comes when you have a second tin/pewter card to fuel this card with. In nearly every game you can guarantee that you are at least the lead on one track, sometimes two.The double card draw is good, though you will need a fair bit of pewter or tin to make this consistent. This is a good card to get if you have a lot of tin/pewter, but otherwise, hard pass. 
+
+ Spy:  This card is very similar to lookout, but it has one crucial difference, you can always cycle the card and even pay for a tin/pewter card to boot. This card also pairs really well with iron pulling. While this card is expensive, it scales from completing missions, to helping cycle and pull off big turns. There is no turn when you draw this that it won’t be useful, and there are few cards which can say the same. If you have no money problems this card is an easy purchase, even if money is tight I’d still suggest it. 
+
+ Hyperaware:  Well, all 6 cost cards are amazing, and this is no exception. 3 mission points and it even draws a card, just ridiculous. Confusingly the second ability seems to be quite at odds with the other Tin cards which want you to be the lowest on tracks. Further, you are highest if you are the first to complete a mission, but if others have completed one before you, you will not be counted as the highest. For the cost of two more burns, it is unlikely you will ever want to use the second ability to gain just 3 (maybe 6 damage), however the first ability is more than good enough to use. Buy this if you can! 
+
+ Allies 
+ Houselord:  A really strong and affordable ally, which helps tin with one of its big weaknesses, money. A second tin to draw a card is great as well. With a shield value of 2 it also gets by a few of the specific Lord Ruler eliminations. 
+
+ Tineye:  For an extra 3 coins you get the ability to gain one mission point… And I think drawing a card is a bit better than 2 mission points. Good if you can get this very early, otherwise give this one a pass. 
+
+ Pewter 
+ Defender should be read as one time healing. Sadly, when the Lord Ruler does damage, and he will do damage basically every other round, this ally will die automatically*. Making these allies even more fleeting than the common ally. In pvp these cards have more use as you can help shield your more valuable allies, but against the Lord Ruler they just fall flat. The minor benefits do not offset the investment, and missed draw opportunity. This ability seems to me to be an unfortunate casualty of game design. 
+ Technically if the Lord Ruler does less damage than the shield the ally will survive, but in practice this will almost never happen past the first few rounds. 
+
+ Strike:  A very low cost card which is a small step removed from basic training. The upside is a single health gained when used as a vial. This card is better in pvp, but is still quite useful in co-op. Damage is always required to deal with adversaries, and buying some extra damage early can really help with an annoying adversary before it snowballs out of control. Consider picking this up in the first few rounds, or if you are a bit light in the damage department. 
+
+ Survive:  There are few cards better equipped to pump out raw healing than survive. Health is hard to come by, so consider this whenever it shows up. But requiring healing is a symptom, and if you can more readily deal with threats quickly you should need less healing. That being said, the Lord Ruler will always do damage, and you will always need health. As a note, the errata now allows you to heal any ally instead of yourself, so having one copy floating around can still be useful. 
+
+ Recover:  This card is incredible. For 2 coins, you can pick up a 2 coin 2 hp for a single burn. This is one hp for 2 coin trade off from Survive, and it even has a great second tier. 5 total health and 4 coins for 2 pewter/tin. The only sad thing about this card is that there is only one of them. I buy this card almost every time it shows up. 
+
+ Brawl:  This card is great, full stop. The damage and money is always useful, and at a 4 cost you can almost guarantee being able to purchase it from turn 1 onwards. Oh, and you can always vial this for 2 damage, which is the most damage from a vial in the game. Brawl will always find real value. Buy this and be happy. 
+
+ Crushing blow:  6 damage is a lot, more than any non-Atium card in the game. The 8 hp is great in the end game to help keep you alive as well in the last few rounds. The card has one note, but it plays it well. It’s a 6 drop, buy it. 
+
+ Allies 
+ Soldier : As previously discussed the defender ability is quite lackluster. Essentially It's a heal 2, with some minor damage. Skip it. 
+
+ Pewterarm : Same as Soldier, except that it’s a heal 3, with some minor damage. Skip it. 
+ Bronze 
+ Bronze’s signature, Seek , is quite hit or miss. Sometimes you are lucky enough to consistently hit a card that has value and sometimes you aren’t. I’ve played many games where the cards in the market are all terrible and Seeking for any just doesn’t help, though usually there is at least one beneficial card available. Obviously every game is different, but we can do some simple math to get a decent grasp on how frequent Seek can find a target. 
+
+ Total market cards 82. 
+ Allies: 22 (cannot be activated by Seek) 
+ Cards that cost 3 or less: 30 
+ Cards that cost 5 or less: 48 
+ Cards that cost 6 or less: 56 
+
+ A basic way to think about these odds is to calculate the odds that each card being drawn is/isn’t Seekable, and then multiply by the number of ways the market can be ordered. As a note the real odds are slightly different as these calculations don’t handle removal, but the values are pretty close to the real thing. 
+
+ Odds that you get no cards for Seek 3: ~ (52/82)^6 = 6.5% 
+ Odds that you get one card for Seek 3: ~ ((52/82)^5 * (30/82)) * 6 = 22.5% 
+ Odds that you get two cards for Seek 3: ~ ((52/82)^4 * (30/82) ^ 2) * 15 = 32.5% 
+ Etc etc 
+ I’ve done the basic legwork but you can see that even with just a Seek 3, you have a 93.5% chance to have at least one card, but only a 71% chance to hit at least 2 cards. The odds are significantly better (~95%) with Seek 5 to hit at least 2 cards. 
+
+ Percentages that Seek will find X cards 
+ Num Cards 
+ Seek 3 
+ Seek 5 
+ Seek 6 
+
+ 0 
+ 6.503347302 
+ 0.5081481958 
+ 0.1016148016 
+
+ 1 
+ 22.51158681 
+ 4.304314129 
+ 1.313175898 
+
+ 2 
+ 32.46863483 
+ 15.19169693 
+ 7.070947141 
+
+ 3 
+ 24.97587295 
+ 28.59613539 
+ 20.30630974 
+
+ 4 
+ 10.8068681 
+ 30.278261 
+ 32.80250034 
+
+ 5 
+ 2.493892639 
+ 17.0983121 
+ 28.26061568 
+
+ 6 
+ 0.2397973691 
+ 4.023132258 
+ 10.1448364 
+
+ One thing this table doesn’t do is determine if those cards will be useful for you. This takes some actual experimentation, but I find myself moderately happy to use Seek. I think the mechanic does a good job of testing your skills to know what card to copy, what order is correct, and can pair really well with the characters tier 2 ability of buying and eliminating a card from the market. 
+ And of course it gives you the perfect opportunity to lambast the Lord Ruler when he eliminates the card right before your turn, and to praise him when the next revealed card is perfect for you. 
+
+ However, there is a huge downside to Seek which can’t be quantified as easily. Simply put, people buy the best cards they can. Cards which remain in the market are either cheap but not useful, too expensive, or are allies. 
+ Cheap but not useful. These cards can be Seeked, but were not applicable to any previous players. Overall this is the most useful category for any Seek cards, but it generally still means that the cards are on the weak side. 
+ Too expensive. This goes without saying, but if they couldn’t be purchased you probably won’t be able to Seek it. 
+ Allies: More often than not allies clog the market. Players don’t buy them because they don’t mesh with their deck, provide something the player doesn’t need, or it's too late in the game to get value from them. These cards are the worst. They can’t be Seeked, and they can’t be purchased and eliminated via the tier 2 ability. Steel push or the Lord Rulers elimination is the only thing which removes them. Sometimes they are removed quickly, but other times they persist for several turns. 
+
+ All of this is to say that while each ‘new’ card put into the market has the aforementioned chances at being usable, the actual odds of a card in the market being usable will be quite a bit less. 
+
+ Hunt:  A basic Seek 3 for a cost of 2. This will sometimes find value, and like all Seek cards, you can gain access to abilities not in your deck. There is variance as discussed above, but this card can be worth it if you can get it early, ideally before your first shuffle. 
+
+ Unveil:  While 3 mission points is good, coming on a 5 cost is tough. However the real win on this card is the second ability. For one bronze more you get a Seek 6, which is almost always going to hit something. This card can lead you to victory, and I have picked it up many times, but it is quite expensive, and is ridiculously overshadowed by Pierce in every department. If you have the ability to get 5 coins on turn one or two, getting this early can quickly propel you to completing a mission. 
+ As a note: there are very few cards which can grant 3 mission points for one metal burn, so it is worth consideration. 
+
+ Pursue:  While this card is quite basic, it is insanely efficient. You can think of this as your best training and 2 fundings stapled together. Compared to zinc's better money generating cards it swaps a coin for 2 mission points, which is quite a good trade off. There are only a few 3 drops that perform better than this card, and certainly none for Marsh. 
+
+ Infiltrate:  While this looks a lot like Pursue, this card is only a training + a funding, though that still is good enough to buy early. It’s just a bit under Brawl, and it has a decent upside if you can find a second bronze. While it is not as good as Pursue, you should still consider pursuing it… 
+
+ Pierce:  A ridiculous card. 3 mission points AND Seek 5??? Bonkers. If you are ever able to get off the second ability to Seek 6 twice I think it is basically over for the Lord Ruler. You can even double up on Seeking for the 5 drop  you selected on the first action. One of my favorite 6 drops to get. 
+
+ Allies: 
+ Obligator:  There are not many 3 drops that I’d love to see in my hand, and that’s basically what this card is. Early game this card can shine. Most three drops are just better than a training and this card allows you to essentially trade off a training for something random. It gets significantly worse the later the game goes on. As your deck gets stronger and your card quality improves the random market cards will be less worth it (and the market will probably be worse). 
+
+ Seeker:  Seek 5 is so much better than Seek 3, and the chance to use it twice is really strong. 
+ This is worth it for 5 coins. Even with zero bronze cards you can play this, and burn bronze to get a 5 cost effect, so you are net-even. If it survives you have a gravy train. 
+ Copper 
+ Cloud is an interesting ability, early on it is almost always beneficial to use the cards cloud ability because you can only burn one or two metals per turn. Later on you start having choices on if the cloud ability is worth it compared to using the card itself. While this can provide a nice skill test for the player, the cloud abilities are pretty basic and the decision isn’t that difficult most of the time. 
+
+ Coppercloud:  A fair amount of the time, this will be a free heal 3. Later on it will be a cycle for one metal burn. It is a fine, but an uninspiring card. 
+
+ Hide: This card offers the player really interesting decisions, and pushes the envelope for strength. In my opinion it might be the best designed card in the entire game.  The cloud ability to keep an ally alive is phenomenal. The Lord Ruler has a boat load of eliminating ally effects and keeping one alive for another turn or two is a huge benefit. The basic ability to heal 3 is similar to other cloud cards but instead of being free, it will cost you a burn. Lastly, the vial for 2 damage is a great option select  when you don’t need healing, or really need a little more reach. This card is fantastic for 4 coins, and I think it should probably cost 5 (and I’d still buy it then). It is still good even if you don’t have allies. 
+
+ Sneak:  This is a basic training with the ability to heal 3 some of the time instead. For three coins, I’d like to get a bit more than 2 mission points. When you compare it to hide this card falls pretty far short, but it still gives you a cool choice; do you need the free health, or can you greed for the points? 
+
+ Train In Secret:  This card literally does everything (well except generate money). I think the majority of the time you will use this to level up, which is an incredibly rare and valuable option. It is one of a select few cards which gives you a choice, and that flexibility is valuable. 
+
+ Strategize:  It’s a 6 drop, which levels you up, and gives you a bit of everything. The double copper for the second ability is a bit steep, but the cost gives selection, but at the point you can afford the double copper you probably could spend the cards on something better than 4 damage… The first ability is in the running for strongest single metal burn in the game. 
+
+ Allies 
+ Keeper:  This card starts off a bit slow. Of your hand of  5, one is the ally, and one is the card you set aside, leaving you only three cards to play. After that though it’s like drawing 6 cards a turn, except one card should hopefully always be useful. It lets you correct some of the drawing randomness and get more consistent turns. Obviously this card gets better when you are already using copper as I’m not sure if a card draw is worth a metal burn in the early game. Mid-Late game though this card can put in serious work. 
+
+ Smoker:  One of the more unique allies. The ongoing effect will often ‘heal’ much more than the actual ability. If you get this card, you will probably not need any other healing card. Definitely worth the 5 coins. 
+
+ Zinc 
+ Riot in the base rules edition is quite weak, however the official errata has given the ability a new life. “Activate the top ability of one of your allies that hasn’t been Rioted this turn.” This means you can activate an ally traditionally and via rioting allowing you to double dip! Additionally, nearly all of the cards give money, and we all need money (yay capitalism). 
+ The biggest downside is that money has a pretty hard cap almost entirely based on the tier 2 ability only being able to be used once per turn. And the fact that you eventually don’t want to buy more cards. 
+
+ Enrage:  Without an ally this is essentially a basic training… with an ally this is much better. Shan should consider buying this if no other zinc cards are available, but others should skip unless they have at least an ally or two. 
+
+ Inspire:  For 3 gold you get one of the best cash cards in the game. On top of that it has Riot, so get an ally or two, or don’t… it still might be good enough without using the Riot. 
+
+ Charm:  This is the best pure cash card in the entire game, and it all comes from the vial. At absolute minimum this is 2 coins per draw and can fuel some other card, which is ridiculous. This one card sets you up for the entire game for generating money. 
+
+ Intimidate:  Almost as good as Inspire for one metal burn. With a heavy investment into zinc/brass you can cycle some cards which is good, but too much cash generation runs into diminishing returns. However, this still gets 3 gold for a burn, which is probably good enough to get you any card you will need. 
+
+ House War:  Card draw is incredibly broken in this game, and being able to increase your hand by 40% is stupidly overpowered. The second ability to gain mission points can usually one shot an entire mission at once. Damage is much easier to gain than mission points, and it gives a nice use for the zinc cards if you don’t need money. BUY THIS! 
+
+ Allies 
+ Rebel:  This just activates other allies, which means by itself, it does nothing. For this to be useful you need to have multiple allies AND actively want to burn zinc. Or, an expensive ally which you want to activate multiple times per turn. I’m not sure how many allies you need for this card to be good, but certainly several. This card is a trap, and will make the game harder to win if you buy it. It is slightly more reasonable for Shan to buy this card, but you should probably still pass unless you have several allies. 
+ As a note, this card does combo with the Atium allies, but finding these cards, and getting them to stick around and survive is a bit of a meme. 
+
+ Rioter:  If there is one thing zinc does not need, its coin generation. The second ability for 2 damage is lackluster as well, and all for a price tag of 5 coins… it is a bit too much to ask. Skip this. The one exception is if you get this really early and have no other cash generation. One metal burn for 3 coins is decent, especially if it is repeatable. 
+ Brass 
+ Frankly speaking, I think Soothe   has the potential to be the strongest ability in the game*. You start with 10 basic cards and every time you draw them you cry inside, and maybe even on the outside. There are only a few ways to mitigate this. Draw more cards, or stack the deck. Picking up any Soothe lets you constantly tweak your deck, allowing you to draw better cards more frequently. You can even buy early game cards without fear of getting bogged down with a huge deck. Additionally, you can even Soothe the soothing card itself! With few exceptions I buy the first Soothe card I see in every game. 
+
+ There are two caveats however. 
+ The first is that more than one or two Soothe cards is too much and diminishing returns are a real drag. Remember, these cards don’t really do anything to defeat adversaries.
+The second is that Soothe gets exponentially worse the further into the game you get. If you see a Soothe card within the first 5 or so turns it is extremely valuable. Past that I’d only opt for a Soothe two, Con’s might be too slow, especially in harder difficulties. 
+
+ Con:  It’s training, + Soothe! The one mission point on the vial is just the cherry on top. And for 2 coins, it is both affordable and efficient. 
+
+ Deceive:  For one burn you can remove two bad cards, and get 2 coins toward buying a better one. With this card you will be able to craft an incredible deck insanely fast. You are combining a fantastic cash card with a fantastic Soothe card, and stapling them together, and all for 4 coins. I’m not joking when I say this card alone will win you the game. 
+
+ Subdue:  Losing out on the 2 coins from Deceive hurts, but 2 Soothes is still insanely good. The second ability to gain a market card (which is unique) is quite strong despite being capped at 5 cost. While Deceive is a better card at obtaining cards in the market, with even one or two sources of brass/zinc Subdue can still be quite effective in that department. 
+
+ Pacify:  A level up with a Soothe. Letting you use better cards more frequently. What’s even better is that you can level up as a vial action. AND IT ONLY COSTS 4 COINS. Top 3 card  in the game (including 6 drops). I’m not joking, I’d take this over most 6  drops if I find it early enough. 
+
+ Dominate:  Ummmmm yes please. mission points and soothing! The second ability to turn mission points to damage is good for late game, especially when you can burn Atium. However mission points are generally harder to come by than damage, so this isn’t always useful. Still amazing though. It’s insane that this card is not the best bronze card available. 
+
+ Allies 
+ Informant:  A unique ability to ‘scry’ for you MTG nerds, and eliminate from the deck. Like with all Soothe cards too much is a bad thing, but this will ‘hit’ a bad card most of the time in the early game. Unlike other brass cards you will likely be able to Soothe more per cycle just because you can use it every turn. The earlier you can get it the better. Late game this becomes quite bad. 
+
+ Soother:  Gaining access to a training for 5 coins is a bit steep, but getting some mission points as you eliminate is a good cherry on top. The second brass ability is unlikely to trigger, unless you are deep into zinc and don’t need more cash for w/e reason. Though there are scenarios where this gets a lot of mileage. 
+
+ Steel 
+ Push as an ability is almost always useful, but gets much better the later the game goes on. Removing useless cards for a potentially better one to either buy or buy/eliminate (or Seek) is quite undervalued. “Bad cards”, however you want to define them, tend to persist in the market and removing those cards to see new options can be invaluable. 
+
+ Soar:  An interesting card, for 2 coins you can burn steel to do absolutely nothing! If you buy this early you should almost always use this for the vial effect. This might be the only cheap card that is a late game card solely because of the second ability to be able to purchase ANY eliminated card (and gets 2 coins!). This effect is unrivaled to finding the missing link to your deck. I’d highly recommend this card if you have multiple iron/steel sources. 
+
+ Steelpush:  A level up, or 3 damage, all for 3 coins. And it even has a decent second ability (like what Soar could provide for…) This card is a great early find to help get through annoying adversaries when you need it, and brings you to the late game when you don’t. 
+
+ Assassinate:  3 damage is good, the push is nice. The second ability is not as good, sadly. Killing an ally in co-op transforms to just breaking a shield, and most adversaries have multiple shields. It can be amazing, but more than often is only ~3 damage worth. As the dominance track increases the ‘X’ shields become more difficult to break and so this card actually scales. Assassinate only does one thing, but it does it well. 
+
+ Precise Shot:  An interesting combination between Soar and Assassinate. The big payoff is the ability to gain an eliminated card. When compared to Soar, 2 steel/iron is steep, but the second burn equates to about ~3 gold which is pretty ok for a card. At minimum it’s Assassinate, 3 damage for a card with multiple upsides. I’m always happy to take this at pretty much any stage of the game, even more so if I’m heavy into iron/steel. 
+
+ Maelstrom:  One of the best damage centric cards, it will deal with almost any adversary by itself and even give you a boxing. The second ability has some serious upsides, though it is incredibly niche. Needing to eliminate the entire market is uncommon, and having multiple adversaries alive that all need to be eliminated becomes less common especially since the card gives 5 damage. Late game wiping out the market is useful just to find the last bit of damage/mission points to buy/eliminate. 
+ As a note: I do think the ruling of this card is confusing, the language specifically says “Kill all opponents’ Allies…”. Where Assassinate says “ Kill an opponents’ Ally”. The rule book specifically calls out Assassinate as being able to remove one shield of an adversary, but the errata says that Maelstrom  takes off all shields of all adversaries. I hope a second print or the next expansion will address this confusion. 
+
+ Allies 
+ Mercenary:  A free damage is nice, but the real kicker is being able to gain an eliminated card for two steel, at zero cost. You can get some serious value if you are able to trigger this even one time, if you can pull it off twice it might as well just be GGs. 
+
+ Coinshot:  Two damage again is nice, but breaking a shield is not great. Steel already has several abilities like this and it is unlikely that you will need any more. 
+
+ Iron 
+ Pull  is generally the most consistently useful and powerful ability in the game. Iron pulls give the unparalleled ability to plan your next turn. It lets you replay your best cards over and over. It lets you get allies into play ASAP, and return them instantly when they die. For how simple the ability is, it gives you a lot of choices and branching paths. I essentially consider iron pull like drawing a card, except it is one of your best cards, every time. 
+ It is hard to not go even a little bit into iron every game. The cards are consistent, useful, and not too expensive. The fact that it pairs with steel, which is the best pure damage metal is sweet as well. Without Iron pull co-op would be an order of magnitude more difficult. 
+
+ Ironpull:  2 damage and ‘draw a good card’. For 2 coins? Yes please! One of the best early game cards you can see. Though, I wouldn’t buy this card past the first few rounds unless you are deep into iron/steel/allies. 
+
+ Crash:  An upgraded iron pull that lets you grab that card immediately. Picking and choosing a discarded card to put into your hand this turn is disgusting. Even if you can’t spend the second iron you still get the iron pull so you have a great card for the next turn. And if you can’t play this card, you can still vial for 2 damage fueling a different card entirely. This card has so many decent options that it will test your abilities and give you a lot of ways to play your turn. 
+
+ Reposition:  A free card! 2 damage or 2 coins and you can always flare for it. That being said, this card doesn’t do much more than that. Its static nature means that it will be better earlier than later, but it can transition into paying for other any card  via flaring. FWIW, it is the only card with a refresh icon which has serious upsides in higher difficulties. In the early game you’ll be able to use this for free, and in the late game it even comes with one damage on the vial. This card just does so much at each stage of the game and is highly versatile. 
+
+ Rescue:  This card is Brawl, except almost strictly better, by a lot. Pull 3 is basically an entire draw sequence of your best cards. AND YOU GET 3 DAMAGE and 2 GOLD ON TOP OF IT. This card is top 3 in the game. And for 4 coins it is a steal. Honestly, I would still buy and play it if the card just said pull 3, with nothing else. This card should be nerfed into the ground. It is arguably even better than the iron capstone Ascendant. 
+
+ Ascendant:  IMO the best 6 drop . 4 damage and pull 3 is already incredible, see Rescue. However, the second ability to draw three cards is insane. This card is great. And if it was your first iron/steel card, you should go out and buy more of them just to be able to get the second ability activated. And if you never do, so what who cares, the first ability is just that good (again see Rescue). 
+
+ Allies 
+ Pickpocket:  Free coins! Iron doesn’t have much money generation and iron pulling is second to none at being able to use new cards by buying them and placing them right on top of the deck. The second iron pull might not happen until the late game, but the ability is so good that it is still valuable. I wouldn’t buy this unless you are already into iron. 
+
+ Lurcher:  Basically pickpocket, but a bit better. It is harder to justify the 5 coin investment, but if you get it you’ll start rolling. 
+
+ Neutral Allies 
+ Allies get a lot of hate from the lord rule and for good reason, the potential for value is quite high. On average, each ally needs to be activated 2-3 times for it to ‘pay’ for itself. This makes abilities like iron pull/Soothe quite good to be able to get the allies in play quickly. Consider buying one if you find yourself using those metals, or have Riot! 
+
+ Hazekillers:  Like the other pewter defender allies, these are bad. In fact, they are even worse because they don’t actually do anything. Do not buy. 
+
+ Kandra:  This is only good if you have Riot. Full stop. You get Atium far too late for 3 mission points to matter. If you do have Riot though, this card is incredible. However, you probably need a few Riot sources to really make this work out before the ally inevitably dies. 6 coins is a lot to ask as well for a card that needs to be combo’d. 
+
+ Inquisitor:  This is Kandra again, except it’s the damage version. 
+
+ Noble:  Like the copper Keeper, this ally starts off a bit slow, but can be effective if you get it early. It takes 6 turns to get to the third metal burn perk from the second, but being able to shortcut that can drastically increase your powerlevel. This also helps you pick up more allies as you can just burn that extra metal to power them if they don’t align with your cards. 
+
+ Crewleader:  Probably the best ally. Drawing cards for no cost except the upfront investment is incredible. This card always pays for itself immediately as well. This is on par with other 6 drops, and should be valued extremely highly. The 2 shield also means it dodges some common Lord Ruler hate. Good at all points in the game. 
+ Atium Cards 
+ These three cards stand head and shoulders above all others… that is, in terms of cost. For the vast majority of the game these will be solely used as a wild-card metal. That being said, being able to vial for an Atium to pay for any card is pretty sweet, though until you get the third tier character ability this is pretty mediocre. You’d already be able to pay for the first ability on the card so the Atium is only useful if that metal is flared, or you want to pay for that card's second ability. While that is still good, you need a lot of card draw to really make use of this effect. 
+
+ Confrontation:  One of the two ways to win the game in co-op and that alone should be worth a glance. Then look away, because this card costs 9 gold. It will almost certainly be easier to just buy it from the eliminated pile with a Soar or similar card. Also, that 9 gold could buy you anything else that will help you get through the next several turns. Remember, you need 3 other Atium sources to play the second ability. If you just have Atium tokens you will have to spend all of your ‘burns’ on Atium, which means turn 16 (barring other level ups). 4 Atium tokens are also hard to get. There are two missions which can help, though you don’t have great odds to see them, and you might not be working on them before you get this card. You do get two from the track, but again that means you have to save them, and not use them for a big turn, or to cash in and get some mission points and to stabilize against some annoying adversary. (You can also wait till you max the track, and then wait another 2 turns, but good lord (ruler) that will take a long time.) Lastly you can buy some of the other cards, for 8 coins, and then never be able to play them again as well. All in all it is hard to do everything this card wants you to do, which is good, it says win the game, it should be hard. That being said, winning with this card feels incredible, but also, save yourself the headache and don’t buy this card. 
+ If you somehow do play this card for its first ability, you will be able to do almost anything you want. Invariably some high value cards will have been eliminated by the Lord Ruler so you are likely trading an Atium token for something like a 6 drop, or even something like Balance/Preserve/Ruin, which does give this card a minor upside. 
+
+ Ruin/Preservation/Balance:  All cost 8, and all will almost certainly be used to pay for another card until much, much later in the game. When you can use an Atium to pay for this card you are likely on your last one or two turns of the game and are likely just going for the kill on the Lord Ruler. For that reason Ruin is the best of these cards, just to push 7 more damage though. The other two are still useful just in more niche situations, but really your missions should be done (or just about) by the time you can play these. If you are rich enough these are the best cards to buy and eliminate though which give them some niche upside. Also,they are probably better in the eliminated pile so you can search for them only when you need with a Soar like effect. 
+
+ Game play Guide/Tips 
+ Anyone who has played this game even once or twice knows that there won’t be one route to always win. A card that performs well on one game might be trash the next, and vice versa. All card games have a wide degree of variance and so every player will need to adapt to each game as it progresses. However there are a few tips which will generally be useful in every game. 
+
+ Try and buy at least one card every turn for the first several turns. The card quality in your starting deck is quite low. First and foremost, fundings are the worst cards in the entire game, and every training card is worse than nearly every market card. Buying better cards increases the average quality of your deck making your turns better. 
+ Be wary of greed. Buying the extra value card (level up, Soothe, cash) is tempting, but you are just one bad adversary away from losing a lot of health, especially in the early game. Your deck starts with 4 damage split over 2 cards, and many adversaries have shield values of 3 or more. Not being able to reach those numbers means compounding pain and suffering. Similarly, you better have a very good reason to play a greedy card over deciding to eliminate an adversary. 
+ Don’t get sucked into only buying one pairing of metals. Going ‘deep’ into a metal pairing can be ok late game strategy if you have a very streamlined deck, but in the early game you will need resources that each metal provides. The strongest decks consistently burn 3 different metals every turn in the late game, so have at least a few other good cards to use! 
+ Every deck needs 4 things. Damage, Money, Mission points, and Consistency. Hopefully the first three are evident, but consistency might not be. This is anything which makes your deck function more consistently. This can be more card draw, iron pull, soothing, or enough allies to give you something to spend your burns on every turn. 
+ Don’t be afraid of buying multiple allies of different types. They will die a lot, but they cost nothing to play, and give you something to use every turn. If they can survive a few turns the amount of value you can generate is quite high. Even buying them in the later stages of the game can be worth it. 
+ Be wary of leaving non-threatening adversaries alive. As the difficulty increases there are more effects which compound based on the number of adversaries/shields. While you might not want to sink burns into damage when you could greed instead you may need to. Allowing those adversaries to live will eventually come back to bite you. 
+ Make a note of which metals your basic trainings your character  has. You may be forced to flare a metal and you probably should be flaring one of the metals you don’t have access to. 
+
+ Critiques/House Rules 
+ Tin/Sense:  As I said before I think the gaping hole of ‘Sense’ in co-op was an unfortunate choice that needed to be made to ship this game on time. I think much like Riot the authors should just publish a new ruling for this ability to be used for co-op. There are several different house rules floating around the internet which you could use in your own games. 
+
+ One rule I’ve seen is that you can look at the top X cards (based on the sense value) of the Lord Rulers deck and either reorder them, or even be able to move some to the bottom. Most games do not go past ~20 turns so you could effectively eliminate the worst allies/edicts. Perhaps more importantly you could know if a card in the market will survive or needs to be purchased before it is eliminated. This would give a lot of utility to the metal and make it more attractive to pick up. 
+
+ However, because Sense is an off-turn play I think it should work more like cloud in mitigating some of the effects of an edict. Since cloud already directly reduces (usually) 3 damage it would be a bit unfair for this to reduce more damage than that. Perhaps it could temporarily reduce the value of ‘X’ (dominance) for a turn, though never below a value of 1 (maybe 2). Making some effects more manageable, while not affecting others at all, which is similar to how coppers cloud works (removing some damage, but not affecting things like forced flaring). This should probably also only affect one player like cloud does too. 
+
+ I have not play-tested either of these rules, but this just goes to show that the space for Tin is full of possibilities. A more flushed out game would solve this issue. 
+
+ Character sameness: It would be amazing if characters had more unique attributes rather than just the first tier ability. This would lead to more varied deck building strategies and approaches to the game. Designing and balancing these rules with ~70 unique cards is obviously a huge challenge, but I think it would help push the game to another level. 
+
+ For example, let’s take a look at Shan. She could have a major theme focused on burning zinc and generating money, so let's run with it. Perhaps her tier 2 ability could allow her to buy/purge 2 cards per turn instead of just one, giving more ability to use the money she generates. Her tier 3 might instead allow her to purchase any card from the eliminated pile, perhaps with a 2 gold tax as well. Is this balanced? Probably not in isolation, but I do think it is a step in the right direction. 
+
+ I also think characters could obtain a ‘tier 0’ or once per game ability. Something innate they get through the entire game. This helps solidify their identity and helps differentiate them from each other. 
+
+ Again, with Shan I’d suggest focusing on money. Perhaps she has the ability to purchase a card for another player. You might be able to help out your pal who is about to shuffle their deck by getting them a card before it gets eliminated. Or let them focus on damage while you focus on money generation. 
+
+ Regardless of the rules chosen, I think ‘buffing’ the existing characters gives them more identity and enriches gameplay by giving players more options. Obviously this would require buffs to the Lord Ruler to help balance the increased power level. I won’t get into how to increase his strength here, but there are a lot of levers to pull, like starting higher on the dominance track, buffing adversaries shield totals, or even simply using the harder dominance tracks. 
+
+ A lack of characters: There are only 4 characters to choose from, and while this is related to a lack of character diversity, it is its own issue. While there aren’t many allomancers the mistborn wiki lists 10 notable ones (4 of which are the base characters). I think it makes sense that there should be one for each of the metals. 
+
+ A weakness of mono metal pairing decks: The majority of decks will get 5 or sometimes 6 cards per turn as there are a very select few card draw cards in this game. The amount of metal you can burn increases the likelihood to play your entire hand as the game goes on. This means that if you have most/all of your cards in a single pairing, you will be leaving burns on the table. The first ability on most cards is usually as strong if not stronger than the second ability. As a result, dumping cards to fuel the second ability of a card is generally worse than just burning another card. 
+ Therefore the ‘best’ time to be burning for second abilities comes in the early/mid game when you can only burn one or two metals a turn, potentially stranding 2-3 cards in your hand (unless you want to flare). This is a bit contradictory as this time in the game is usually hallmarked by a deck with cards of many different metals and fundings. 
+ Over the next few turns you will work on trimming your deck down. Dropping any remaining fundings/ trainings  and even mission point focused cards as missions get completed. Now you have the ability to burn 3 or even 4 metals, but your deck has less variance in metals. This means if you go deep into a pairing you are leaving a lot of potential power on the table each turn. 
+ This could be addressed in a few ways, but each would require some pretty hefty testing. 
+ The second tier abilities could be more powerful, though this leads to potentially really swingy early game turns where you luck into drawing a matching set and can start snowballing. One downside to this is that it isn’t as fun to play when your co-op partner(s) is just crushing everything and you feel like your deck is performing significantly worse by contrast. 
+ Give characters the ability to burn a metal more than once per turn. Maybe you could burn a metal twice at a cost. The first metal burn costs 1, but the second costs 2. So with three total metal burns you could burn 3 different metals, or one metal twice. 
+
+ Zero cross metal cards: All cards are specific to a single metal pairing. I believe this is being addressed in the upcoming expansion of the game so I’m happy that more interesting cards will be introduced in the near future. 
+
+ Ally cards getting stuck in the market:  As the game progresses I usually find myself staring at a bunch of ally cards in the market. You can’t Seek them, or buy and eliminate them, so you are stuck with hoping for the Lord Ruler to eliminate them for you, or having steel push. Because allies are specific to a metal, or usually provide a small benefit you are often not incentivized to pick one up in the mid to late game. Either because you don’t need that effect, don’t burn that metal, or some combination of the two. I wish you could buy/eliminate them in a similar way like other ‘action’ cards. They wouldn’t be as strong as the effects are minimal, but it would give more flexibility, especially for Bronze users who might not want to buy/eliminate a decent card. 
+
+ Brutal Adversaries Early: Sometimes the Lord Ruler hands you an adversary which cannot be dealt with easily and brutally punishes you. While many can be challenging, there are three in particular which take it to the next level. 
+ The 5 shield Koloss which deals 6 damage per turn 
+ The X/4 shield Koloss which deals 2X damage per turn 
+ The X/3/3 shield Inquisitor which deals 2X damage per turn. 
+
+ While there are many adversaries with shield values of 3, reaching that number is still a struggle when your base trainings  only deal  2 damage. To defeat any of them you need to draw one of your two damage trainings, and some other damage card which you need to find in the market. You will need to pass your first two turns before you can shuffle, then you have to get lucky and draw well. If your damage cards are spread out you might not meet those thresholds. This is another reason why Vin/Kelsier are so much better than Shan/Marsh. Being able to hit that 3 or 4 damage threshold is just so important to staying alive. 
+
+ However, even if you do buy damage, and get lucky in your draws, you might still have to take this damage for 2-3 turns. Depending on the number of players and other factors that could cost you anywhere between 10-20 life, sometimes more. For this reason alone, if you draw any of these adversaries early you will more than likely lose. 
+
+ I’ve found some threads where players shuffle these specific adversaries into the Lord Rulers deck only after the first few turns have passed just to avoid resetting the game every time a player draws one of these early on. 
+
+ 
