@@ -3,11 +3,15 @@
 # PROVENANCE & CAVEATS
 #   This is the best-available card list, reconstructed from "Zen's Mistborn
 #   co-op mode & card rankings" (a community strategy guide) cross-checked
-#   against the official rulebook. No official card database is published.
-#   - Card NAMES and metal groupings are reliable (the guide reviews every card).
-#   - COSTS are taken from the guide where stated/implied; `cost: null` means the
-#     guide did not pin it down — verify against physical cards / the TTS mod.
-#   - EFFECTS are paraphrased summaries, NOT exact card text.
+#   against the official rulebook, and COSTS further verified against photos of
+#   the TierMaker card gallery (the full 65-card grid). No official card
+#   database is published.
+#   - Card NAMES and metal groupings are reliable (verified against card images).
+#   - COSTS: most are now confirmed from the card images. `cost: null` = still
+#     unread (too small/occluded in the photos) — verify against the TTS mod.
+#   - EFFECTS are paraphrased summaries, NOT exact card text (the card images
+#     were too low-resolution to transcribe the rules text verbatim).
+#   - Atium card is "Preserve" (not "Preservation") per the card image.
 #   - This list is the 65 UNIQUE cards. The retail game has 82 market cards total
 #     (incl. 22 allies) because several cards appear in multiple copies.
 #   Raw source text preserved alongside this file as zen_coop_guide.txt.
@@ -52,11 +56,11 @@ market_cards:
       - {name: Investigate, cost: null, metal: Tin, effect: "Variable coins based on lowest mission-track position (up to 4)."}
       - {name: Eavesdrop,   cost: 4,    metal: Tin, effect: "Hold a mission-track level; coin vial."}
       - {name: Lookout,     cost: 4,    metal: Tin, effect: "Draw 2 cards (scales with highest track); needs tin/pewter fuel."}
-      - {name: Spy,         cost: null, metal: Tin, effect: "Cycle/draw scaling with completed missions; pays for a tin/pewter card; pairs with Iron pull."}
+      - {name: Spy,         cost: 5, metal: Tin, effect: "Cycle/draw scaling with completed missions; pays for a tin/pewter card; pairs with Iron pull."}
       - {name: Hyperaware,  cost: 6,    metal: Tin, effect: "3 mission points and draw a card; second ability (2 more burns) for damage."}
     allies:
-      - {name: Houselord, cost: null, metal: Tin, shield: 2, effect: "Money; second Tin draws a card."}
-      - {name: Tineye,    cost: null, metal: Tin, effect: "Gain 1 mission point (compared unfavorably to card draw)."}
+      - {name: Houselord, cost: 3, metal: Tin, shield: 2, effect: "Money; second Tin draws a card."}
+      - {name: Tineye,    cost: 5, metal: Tin, effect: "Gain 1 mission point (compared unfavorably to card draw)."}
   pewter:   # keyword DEFENDER (weak vs. Lord Ruler)
     actions:
       - {name: Strike,        cost: 2,    metal: Pewter, effect: "Low-cost damage; +1 health when used as vial."}
@@ -65,7 +69,7 @@ market_cards:
       - {name: Brawl,         cost: 4,    metal: Pewter, effect: "Damage + money; vial for 2 damage (highest vial damage)."}
       - {name: "Crushing Blow", cost: 6,  metal: Pewter, effect: "6 damage (most of any non-Atium card) and 8 health."}
     allies:
-      - {name: Soldier,   cost: null, metal: Pewter, effect: "Defender; effectively heal 2 + minor damage."}
+      - {name: Soldier,   cost: 2, metal: Pewter, effect: "Defender; effectively heal 2 + minor damage."}
       - {name: Pewterarm, cost: null, metal: Pewter, effect: "Defender; effectively heal 3 + minor damage."}
   bronze:   # keyword SEEK
     actions:
@@ -85,7 +89,7 @@ market_cards:
       - {name: "Train in Secret", cost: null, metal: Copper, effect: "Flexible: level up / bit of everything (no money)."}
       - {name: Strategize,       cost: 6,    metal: Copper, effect: "Level up + a bit of everything; second ability (2 copper) 4 damage."}
     allies:
-      - {name: Keeper, cost: null, metal: Copper, effect: "Set a card aside then effectively draw 6/turn; consistency."}
+      - {name: Keeper, cost: 2, metal: Copper, effect: "Set a card aside then effectively draw 6/turn; consistency."}
       - {name: Smoker, cost: 5,    metal: Copper, effect: "Ongoing 'heal' effect, often large."}
   zinc:     # keyword RIOT (buffed by errata)
     actions:
@@ -95,7 +99,7 @@ market_cards:
       - {name: Intimidate, cost: null, metal: Zinc, effect: "~3 gold per burn; cycle with heavy zinc/brass."}
       - {name: "House War", cost: null, metal: Zinc, effect: "Draw cards (+40% hand); second ability = big mission points."}
     allies:
-      - {name: Rebel,  cost: null, metal: Zinc, effect: "Activates other allies; needs several allies (trap otherwise)."}
+      - {name: Rebel,  cost: 3, metal: Zinc, effect: "Activates other allies; needs several allies (trap otherwise)."}
       - {name: Rioter, cost: 5,    metal: Zinc, effect: "1 burn for 3 coins (repeatable); second ability 2 damage."}
   brass:    # keyword SOOTHE
     actions:
@@ -103,42 +107,42 @@ market_cards:
       - {name: Deceive,  cost: 4,    metal: Brass, effect: "Eliminate 2 cards + gain 2 coins (cash + Soothe stapled)."}
       - {name: Subdue,   cost: null, metal: Brass, effect: "Soothe 2; second ability gain a market card (cost <=5)."}
       - {name: Pacify,   cost: 4,    metal: Brass, effect: "Level up + Soothe; can level up as a vial action."}
-      - {name: Dominate, cost: null, metal: Brass, effect: "Mission points + Soothe; second ability converts mission points to damage."}
+      - {name: Dominate, cost: 6, metal: Brass, effect: "Mission points + Soothe; second ability converts mission points to damage."}
     allies:
-      - {name: Informant, cost: null, metal: Brass, effect: "Scry + eliminate from deck each turn; best early."}
+      - {name: Informant, cost: 3, metal: Brass, effect: "Scry + eliminate from deck each turn; best early."}
       - {name: Soother,   cost: 5,    metal: Brass, effect: "Training + mission points as you eliminate."}
   steel:    # keyword PUSH
     actions:
       - {name: Soar,          cost: 2,    metal: Steel, effect: "Vial = do nothing; second ability buys ANY eliminated card (+2 coins)."}
       - {name: Steelpush,     cost: 3,    metal: Steel, effect: "Level up or 3 damage; decent second ability."}
-      - {name: Assassinate,   cost: null, metal: Steel, effect: "3 damage + push; second ability removes one adversary shield (scales with X)."}
+      - {name: Assassinate,   cost: 3, metal: Steel, effect: "3 damage + push; second ability removes one adversary shield (scales with X)."}
       - {name: "Precise Shot", cost: null, metal: Steel, effect: "3 damage + push; can gain an eliminated card (2 steel/iron)."}
       - {name: Maelstrom,     cost: null, metal: Steel, effect: "5 damage + a boxing; second ability removes all shields of all adversaries (per errata)."}
     allies:
-      - {name: Mercenary, cost: null, metal: Steel, effect: "Free damage; gain an eliminated card for 2 steel at no cost."}
-      - {name: Coinshot,  cost: null, metal: Steel, effect: "2 damage; break a shield."}
+      - {name: Mercenary, cost: 3, metal: Steel, effect: "Free damage; gain an eliminated card for 2 steel at no cost."}
+      - {name: Coinshot,  cost: 5, metal: Steel, effect: "2 damage; break a shield."}
   iron:     # keyword PULL
     actions:
       - {name: Ironpull,   cost: 2,    metal: Iron, effect: "2 damage + pull (put a good card on top of deck)."}
-      - {name: Crash,      cost: null, metal: Iron, effect: "Pull a discarded card into hand this turn; second iron; vial 2 damage."}
+      - {name: Crash,      cost: 4, metal: Iron, effect: "Pull a discarded card into hand this turn; second iron; vial 2 damage."}
       - {name: Reposition, cost: null, metal: Iron, effect: "Free card; 2 damage or 2 coins; refresh icon; flare-friendly."}
       - {name: Rescue,     cost: 4,    metal: Iron, effect: "Pull 3 + 3 damage + 2 gold (top-tier)."}
       - {name: Ascendant,  cost: 6,    metal: Iron, effect: "4 damage + pull 3; second ability draw 3 cards (iron capstone)."}
     allies:
-      - {name: Pickpocket, cost: null, metal: Iron, effect: "Free coins; second iron pull; best when already in iron."}
+      - {name: Pickpocket, cost: 2, metal: Iron, effect: "Free coins; second iron pull; best when already in iron."}
       - {name: Lurcher,    cost: 5,    metal: Iron, effect: "Like Pickpocket, slightly better."}
 
   neutral_allies:
-    - {name: Hazekillers, cost: null, effect: "Pewter-defender style; poor vs. Lord Ruler."}
+    - {name: Hazekillers, cost: 4, effect: "Pewter-defender style; poor vs. Lord Ruler."}
     - {name: Kandra,      cost: 6, effect: "3 mission points; strong only with Riot (Atium-ally combo)."}
-    - {name: Inquisitor,  cost: null, effect: "Damage version of Kandra; strong only with Riot."}
-    - {name: Noble,       cost: null, effect: "Set aside then draw; shortcut to extra metal burn (like Keeper)."}
+    - {name: Inquisitor,  cost: 6, effect: "Damage version of Kandra; strong only with Riot."}
+    - {name: Noble,       cost: 3, effect: "Set aside then draw; shortcut to extra metal burn (like Keeper)."}
     - {name: Crewleader,  cost: 6, shield: 2, effect: "Draw cards each turn for free after upfront cost; best ally."}
 
 atium_cards:   # cost paid in coins; typically used as wild metal until late game
   - {name: Confrontation, cost: 9, metal: Atium, effect: "WIN CONDITION: play 4 Atium onto it to win; first ability lets you take an eliminated card."}
   - {name: Ruin,          cost: 8, metal: Atium, effect: "Push 7 damage; best of the trio for finishing the Lord Ruler."}
-  - {name: Preservation,  cost: 8, metal: Atium, effect: "Powerful mission/utility (situational)."}
+  - {name: Preserve,      cost: 8, metal: Atium, effect: "Powerful mission/utility (situational)."}
   - {name: Balance,       cost: 8, metal: Atium, effect: "Powerful mixed effect (situational)."}
 
 # Lord Ruler deck (solo/co-op): 36 cards = Adversaries + Edicts. The guide does
