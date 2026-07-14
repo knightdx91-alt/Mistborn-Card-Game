@@ -25,3 +25,16 @@ ALLOW_BRANCH=1 git checkout -b some-branch
 
 The MCP branch/PR tools are denied in settings; re-enable them only with the
 human's explicit say-so.
+
+## Implementation status
+
+A **playable browser game** lives in [`game/`](game/) — the Deckbuilding Game's
+solo mode vs. the Lord Ruler (plain HTML/CSS/JS, no build). Engine + UI in
+`game/index.html`, card data in `game/cards.js`, docs in `game/README.md`. It is
+also bundled into the sibling `Pokemon-Game` RetroPlay hub at `mistborn/` and
+linked from a hub card.
+
+Card effects are numeric approximations of `docs/deckbuilding/cards.yaml` (no
+official card database exists). The **TTS scripted mod** is the ideal source to
+complete exact costs/text + the Lord Ruler deck — see the README's card-data
+status. When `cards.yaml` is completed, regenerate `game/cards.js` from it.
